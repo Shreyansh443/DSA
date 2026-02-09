@@ -20,6 +20,6 @@ int main(){
         count++;
     }
     printf("Comparisons = %d\n", count);
-    printf("%d, %d", arr[4], k);
     return 0;
+
 }
